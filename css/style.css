@@ -85,3 +85,9 @@
 	};
 }
 
+@media only screen and (max-device-width: 1024px) {
+	.navbar h1 {
+	font-size: 4em;
+	};
+}
+
