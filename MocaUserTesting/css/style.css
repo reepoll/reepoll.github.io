@@ -1,0 +1,31 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+.pic-container{
+		width: 45%;
+		height: 500px;
+		margin: 10px 10px 10px 10px;
+		background-color: blue;
+		float: left;
+	}
+
+/*@media  all and (max-width: 931px) {
+
+	.col {
+		display: block;
+		width: 98%;
+	}*/
+
+@media only screen and  ( min-device-width: 768px) and (max-device-width: 1024px) {
+	
+
+	.pic-container{
+		width: 45%;
+		height: 500;
+		margin: 0 10px 0 10px;
+		background-color: blue;
+	}
+
+}
