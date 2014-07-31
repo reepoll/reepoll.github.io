@@ -9,7 +9,7 @@
 
 @viewport{
     zoom: 1.0;
-    width: 768px;
+    width: 1024px;
 }
 
 
@@ -25,14 +25,14 @@ h1 {
 }
 
 .pic-container{
-		width: 680px;
+		width: 968px;
 		height: 680px;
 		margin: 12px 12px 12px 12px;
 		float: left;
 	}
 
 img {
-	width: 680px;
+	width: 968px;
 	height: auto;
 }
 
