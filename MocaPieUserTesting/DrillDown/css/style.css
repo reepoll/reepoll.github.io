@@ -1,0 +1,44 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+@viewport{
+    zoom: 1.0;
+    width: 768px;
+}
+
+.container{
+	margin: 0 20px 0 20px;
+}
+
+h1 {
+	margin-bottom: 10px;
+	margin-top: 10px;
+	border-bottom: 3px black solid;
+}
+
+.pic-container{
+		width: 680px;
+		height: 680px;
+		margin: 12px 12px 12px 12px;
+		float: left;
+	}
+
+img {
+	width: 680px;
+	height: auto;
+}
+
+/*@media  all and (max-width: 931px) {
+
+	.col {
+		display: block;
+		width: 98%;
+	}*/
+
+@media only screen and  ( max-device-width: 768px){
+	
+
+
+}
